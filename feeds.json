@@ -116,19 +116,6 @@
       "urlEn": "http://www.panorama.am/en/news/rss",
       "contentStart": "<div class=\"html-content",
       "contentEnd": "<div class=\"publications-share"
-    },
-    {
-      "title": "ilur.am",
-      "urlHy": "http://www.ilur.am/rss.html",
-      "contentStart": "<div class=\"newsContent",
-      "contentEnd": "<div class=\"fl"
-    },
-    {
-      "title": "azatutyun.am",
-      "urlHy": "http://www.azatutyun.am/api/",
-      "urlRu": "http://rus.azatutyun.am/api/",
-      "contentStart": "<div class=\"body-container",
-      "contentEnd": "<div class=\"container"
     }
   ]
 }
