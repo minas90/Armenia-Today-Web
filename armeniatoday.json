@@ -108,6 +108,6 @@
       "urlHy": "http://www.armblog.net/feeds/posts/default?alt=rss",
       "contentStart": "<article",
       "contentEnd": "<div class='post-footer"
-    },
+    }
   ]
 }
