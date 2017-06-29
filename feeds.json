@@ -12,7 +12,7 @@
       "fbId": "113214255405833",
       "contentStart": "<span class=\"news-content",
       "contentEnd": "<div id=\"inpage"
-    }
+    },
     {
       "title": "news.am",
       "urlHy": "https://news.am/arm/rss",
@@ -129,21 +129,6 @@
       "urlRu": "http://rus.azatutyun.am/api/",
       "contentStart": "<div class=\"body-container",
       "contentEnd": "<div class=\"container"
-    },
-    {
-      "title": "panarmenian.net",
-      "fbId": "69355249283",
-      "urlHy": "http://stickers.panarmenian.net/feeds/arm/news/",
-      "contentStart": "<div id=\"body\"",
-      "contentEnd": "<div class=\"share_small\""
-    },
-    {
-      "title": "asbarez.com",
-      "fbId": "30695878200",
-      "urlHy": "http://asbarez.com/arm/feed",
-      "urlEn": "http://asbarez.com/feed",
-      "contentStart": "<div class=\"entry-content",
-      "contentEnd": "<!-- .entry-content -->"
     }
   ]
 }
