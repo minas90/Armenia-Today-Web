@@ -109,13 +109,5 @@
       "contentStart": "<article",
       "contentEnd": "<div class='post-footer"
     },
-    {
-      "title": "panorama.am",
-      "urlHy": "http://www.panorama.am/am/news/rss",
-      "urlRu": "http://www.panorama.am/ru/news/rss",
-      "urlEn": "http://www.panorama.am/en/news/rss",
-      "contentStart": "<div class=\"html-content",
-      "contentEnd": "<div class=\"publications-share"
-    }
   ]
 }
