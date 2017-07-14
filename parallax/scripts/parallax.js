@@ -1,7 +1,7 @@
 function initializeParallax(clip) {
   var parallax = clip.querySelectorAll('*[parallax]');
   var parallaxDetails = [];
-  var sticky = false;
+  var sticky = true;
 
   // Edge requires a transform on the document body and a fixed position element
   // in order for it to properly render the parallax effect as you scroll.
