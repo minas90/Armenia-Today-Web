@@ -41,7 +41,7 @@ function initializeParallax(clip) {
     }
     perspectiveElement.style.perspectiveOrigin = 'bottom right';
     perspectiveElement.style.perspective = '1px';
-    perspectiveElement.style.height = "100%";
+    perspectiveElement.style.minHeight = "100%";
     if (sticky)
       elem.style.position = '-webkit-sticky';
     if (sticky)
