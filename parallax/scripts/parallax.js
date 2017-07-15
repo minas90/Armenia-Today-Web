@@ -33,7 +33,7 @@ function initializeParallax(clip) {
     // TODO(flackr): optimize to not redo this for the same clip/container.
     var perspectiveElement;
     if (sticky || getComputedStyle(clip).webkitOverflowScrolling) {
-      sticky = true;
+      sticky = false;
       perspectiveElement = container;
     } else {
       perspectiveElement = clip;
