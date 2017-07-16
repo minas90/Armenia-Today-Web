@@ -21,10 +21,6 @@ html, body {
   background-size: cover;
   box-sizing: border-box;
   width: 100%;
-  /* Since the parallax elements still consume space, we set the margin to undo
-     the height of this parallax element making it essentially consume 0 space.
-  */
-  /*margin-bottom: -130vh;*/
 }
 
 .header {
@@ -38,11 +34,11 @@ html, body {
 
 @media screen and (orientation:landscape) {
  .header {
-   height: 100vh;
+   height: calc(100vh - 100px);
  }
 
  .parallax.header {
-   margin-bottom: -100vh;
+   margin-bottom: calc(-100vh + 100px);
  }
 }
 
@@ -51,7 +47,6 @@ html, body {
   overflow-x: hidden;
   overflow-y: auto;
   position: relative;
-  z-index: 2;
   -webkit-overflow-scrolling: touch;
 }
 .solid {
