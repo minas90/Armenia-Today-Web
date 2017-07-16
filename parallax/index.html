@@ -4,22 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 <style>
+* {
+  box-sizing: border-box;
+}
+
 html, body {
   height: 100%;
   margin: 0;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.scene {
-  padding: 10px;
-}
-
 .parallax {
   background-size: cover;
-  box-sizing: border-box;
   width: 100%;
 }
 
@@ -34,11 +29,11 @@ html, body {
 
 @media screen and (orientation:landscape) {
  .header {
-   height: calc(100vh - 100px);
+   height: calc(100vh - 5em);
  }
 
  .parallax.header {
-   margin-bottom: calc(-100vh + 100px);
+   margin-bottom: calc(-100vh + 5em);
  }
 }
 
@@ -61,10 +56,23 @@ html, body {
   -webkit-transform: translate3d(0, 0, 0);
 }
 
+.content {
+  margin: 0 auto;
+  max-width: 720px;
+  padding: 10px;
+}
+
 .title {
   color: white;
   position: absolute;
   bottom: 0;
+  left:0;
+  right:0;
+  padding: 10px;
+
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: 720px;
 }
 
 </style>
@@ -79,11 +87,14 @@ html, body {
     <div class="viewport">
     <div>
       <div class="parallax header" style="background-image: url('images/stars.jpg');" parallax="0.5"></div>
-      <div class="scene header">
-        <h3 class="title">Ով կարծում է, որ Իսկանդերը զուտ բարոյական կամ հոգեբանական նշանակություն ունի, նա չի էլ հասկանում. Սերժ Սարգսյան 111</h3>
+      <div class="header">
+        <b class="title">Ով կարծում է, որ Իսկանդերը զուտ բարոյական կամ հոգեբանական նշանակություն ունի, նա չի էլ հասկանում. Սերժ Սարգսյան</b>
       </div>
-      <div class="scene solid">
-        <p>What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read!</p>
+      <div class="solid">
+        <div class="content">
+          <p>What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read!</p>
+          <p>What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read! What’s this? This is a parallax scroller. But not just yet another parallax scroller, it’s one that doesn’t rely on JavaScript for the animation, that works on both desktop and mobile and has 60fps while scrolling. This was a lot harder than we originally anticipated, so we wrote up what we did for you to read!</p>
+        </div>
       </div>
     </div>
   </div>
