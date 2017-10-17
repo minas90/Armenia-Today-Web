@@ -125,9 +125,9 @@
     },
     {
       "title": "1in.am",
-      "contentStart": "<div class=\"single-post-main",
+      "contentStart": "<span class=\"news-content",
       "contentEnd": "<div id=\"inpage",
-      "css": ".news-meta-row-social,.news-meta,.news-title,.hidden-mobile{display:none!important;}",
+      "css": ".news-meta-row-social,.news-meta,.news-title,.mobile-banner,.hidden-mobile{display:none!important;}",
       "removeImg": "true"
     },
     {
