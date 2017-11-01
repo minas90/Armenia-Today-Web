@@ -22,16 +22,20 @@
       "urlEn": "http://www.tert.am/en/news/rss"
     },
     {
-      "title": "lragir.am",
-      "urlHy": "http://www.lragir.am/rss/arm/0/home/view",
-      "urlRu": "http://www.lragir.am/rss/rus/0/home/view",
-      "urlEn": "http://www.lragir.am/rss/eng/0/home/view"
-    },
-    {
       "title": "mamul.am",
       "urlHy": "http://mamul.am/am/rss",
       "urlRu": "http://mamul.am/ru/rss",
       "urlEn": "http://mamul.am/en/rss"
+    },
+    {
+      "title": "168.am",
+      "fbId": "104714256256071"
+    },
+    {
+      "title": "lragir.am",
+      "urlHy": "http://www.lragir.am/rss/arm/0/home/view",
+      "urlRu": "http://www.lragir.am/rss/rus/0/home/view",
+      "urlEn": "http://www.lragir.am/rss/eng/0/home/view"
     },
     {
       "title": "armenpress.am",
@@ -56,6 +60,10 @@
       "urlHy": "http://hetq.am/arm/rss/news",
       "urlRu": "http://hetq.am/rus/rss/news",
       "urlEn": "http://hetq.am/eng/rss/news"
+    },
+    {
+      "title": "araratnews.am",
+      "fbId": "534622579919647"
     },
     {
       "title": "aysor.am",
@@ -131,6 +139,12 @@
       "removeImg": "true"
     },
     {
+      "title": "entertrain.1in.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<div class=\"facebook-shareing",
+      "removeImg": "true"
+    },
+    {
       "title": "news.am",
       "contentStart": "<div class=\"article-body",
       "contentEnd": "<div class=\"article-author",
@@ -144,15 +158,33 @@
       "removeImg": "true"
     },
     {
-      "title": "lragir.am",
-      "contentStart": "<div id=\"article-wrapper\">",
-      "contentEnd": "<p id=\"hpFooter\"",
+      "title": "life.tert.am",
+      "contentStart": "<div id=\"i-content",
+      "contentEnd": "<div class=\"ad\">",
       "removeImg": "true"
     },
     {
       "title": "mamul.am",
       "contentStart": "<div class=\"descer2\"",
       "contentEnd": "<div>Տեղեկացրե՛ք Ձեր մտերիմներին</div>"
+    },
+    {
+      "title": "168.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<!-- .entry-content -->",
+      "removeImg": "true"
+    },
+    {
+      "title": "blog.168.am",
+      "contentStart": "<div class=\"post-content",
+      "contentEnd": "<div class=\"clearfix",
+      "removeImg": "true"
+    },
+    {
+      "title": "lragir.am",
+      "contentStart": "<div id=\"article-wrapper\">",
+      "contentEnd": "<p id=\"hpFooter\"",
+      "removeImg": "true"
     },
     {
       "title": "armenpress.am",
@@ -177,6 +209,12 @@
       "contentStart": "<div class=\"opennewstext",
       "contentEnd": "<div class=\"opennewstools",
       "css": ".opennewstitle{display:none!important;}",
+      "removeImg": "true"
+    },
+    {
+      "title": "araratnews.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "</article>",
       "removeImg": "true"
     },
     {
@@ -208,6 +246,11 @@
       "removeImg": "true"
     },
     {
+      "title": "sport.slaq.am",
+      "contentStart": "<span class=\"news_text",
+      "contentEnd": "<div class=\"end_of_news cb"
+    },
+    {
       "title": "civilnet.am",
       "contentStart": "<div class=\"static-content",
       "contentEnd": "<div class=\"addthis_native_toolbox"
@@ -222,6 +265,11 @@
       "title": "panorama.am",
       "contentStart": "<div class=\"html-content",
       "contentEnd": "<div class=\"publications-share"
+    },
+    {
+      "title": "life.panorama.am",
+      "contentStart": "<div id=\"article-content",
+      "contentEnd": "<div id=\"social-box"
     },
     {
       "title": "ilur.am",
@@ -246,15 +294,10 @@
       "removeImg": "true"
     },
     {
-      "title": "entertrain.1in.am",
-      "contentStart": "<div class=\"entry-content",
-      "contentEnd": "<div class=\"facebook-shareing",
+      "title": "yerkir.am",
+      "contentStart": "<div class=\"news_inner_content",
+      "contentEnd": "<div class=\"news_inner_share_block",
       "removeImg": "true"
-    },
-    {
-      "title": "sport.slaq.am",
-      "contentStart": "<span class=\"news_text",
-      "contentEnd": "<div class=\"end_of_news cb"
     }
   ]
 }
