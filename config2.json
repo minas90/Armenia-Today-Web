@@ -134,7 +134,7 @@
     {
       "title": "1in.am",
       "contentStart": "<span class=\"news-content",
-      "contentEnd": "<div id=\"inpage",
+      "contentEnd": "<div class=\"fb-comments",
       "css": ".news-meta-row-social,.news-meta,.news-title,.mobile-banner,.hidden-mobile{display:none!important;}",
       "removeImg": "true"
     },
