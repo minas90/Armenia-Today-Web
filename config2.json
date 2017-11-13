@@ -195,7 +195,7 @@
     {
       "title": "asekose.am",
       "contentStart": "<div class=\"content",
-      "contentEnd": "<div style=\"float: left; width: 49%"
+      "contentEnd": "</div><br"
     },
     {
       "title": "shamshyan.com",
