@@ -190,6 +190,7 @@
       "title": "armenpress.am",
       "contentStart": "<span class=\"opennewstext",
       "contentEnd": "<div class=\"opennewstools",
+      "css": "#n_t{display:none!important;}",
       "removeImg": "true"
     },
     {
