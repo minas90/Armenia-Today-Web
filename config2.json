@@ -225,9 +225,8 @@
     },
     {
       "title": "armday.am",
-      "contentStart": "<div class=\"articleImge",
-      "contentEnd": "<div class=\"articleShaher",
-      "removeImg": "true"
+      "contentStart": "<div class=\"post-body",
+      "contentEnd": "<div class=\"panel-tags-cats"
     },
     {
       "title": "armsport.am",
