@@ -147,8 +147,7 @@
       "title": "news.am",
       "contentStart": "<div class=\"article-body",
       "contentEnd": "<div class=\"article-author",
-      "css": ".banner{display:none!important;}",
-      "removeImg": "true"
+      "css": ".banner{display:none!important;}"
     },
     {
       "title": "tert.am",
