@@ -135,8 +135,7 @@
       "title": "1in.am",
       "contentStart": "<span class=\"news-content",
       "contentEnd": "<div class=\"fb-comments",
-      "css": ".news-meta-row-social,.news-meta,.news-title,.mobile-banner,.hidden-mobile,.post-translate{display:none!important;}",
-      "removeImg": "true"
+      "css": ".news-meta,.news-meta-row-social,.post-translate{display:none!important;}"
     },
     {
       "title": "entertrain.1in.am",
