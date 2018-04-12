@@ -156,12 +156,6 @@
       "removeImg": "true"
     },
     {
-      "title": "life.tert.am",
-      "contentStart": "<div id=\"i-content",
-      "contentEnd": "<div class=\"ad\">",
-      "removeImg": "true"
-    },
-    {
       "title": "mamul.am",
       "contentStart": "<div class=\"descer2\"",
       "contentEnd": "<div>Տեղեկացրե՛ք Ձեր մտերիմներին</div>"
