@@ -207,8 +207,7 @@
     {
       "title": "araratnews.am",
       "contentStart": "<div class=\"entry-content",
-      "contentEnd": "</article>",
-      "removeImg": "true"
+      "contentEnd": "</article>"
     },
     {
       "title": "aysor.am",
@@ -224,7 +223,7 @@
       "title": "armsport.am",
       "contentStart": "<div class=\"static-content",
       "contentEnd": "<div id=\"social-box",
-      "css": "#tag-block {display: none !important;}"
+      "css": "#tag-block{display:none!important;}"
     },
     {
       "title": "armfootball.com",
