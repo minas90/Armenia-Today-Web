@@ -201,7 +201,7 @@
       "title": "hetq.am",
       "contentStart": "<div class=\"opennewstext",
       "contentEnd": "<div class=\"opennewstools",
-      "css": ".opennewstitle{display:none!important;}",
+      "css": ".opennewstitle,.datetime,.opennewstext~*{display:none!important;}",
       "removeImg": "true"
     },
     {
