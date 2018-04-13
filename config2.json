@@ -234,6 +234,7 @@
       "title": "slaq.am",
       "contentStart": "<span class=\"date2",
       "contentEnd": "<div class=\"end_of_news",
+      "css": ".date2{display:none!important;}",
       "removeImg": "true"
     },
     {
