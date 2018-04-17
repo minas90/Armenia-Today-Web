@@ -134,8 +134,8 @@
     {
       "title": "1in.am",
       "contentStart": "<span class=\"news-content",
-      "contentEnd": "<div class=\"fb-comments",
-      "css": ".news-meta,.news-meta-row-social,.post-translate{display:none!important;}"
+      "contentEnd": "<div class=\"banner_ads",
+      "css": ".news-meta,.news-meta-row-social,.post-translate{display:none!important}"
     },
     {
       "title": "entertrain.1in.am",
@@ -147,7 +147,7 @@
       "title": "news.am",
       "contentStart": "<div class=\"article-body",
       "contentEnd": "<div class=\"article-author",
-      "css": ".banner{display:none!important;}"
+      "css": ".banner{display:none!important}"
     },
     {
       "title": "tert.am",
@@ -182,7 +182,7 @@
       "title": "armenpress.am",
       "contentStart": "<span class=\"opennewstext",
       "contentEnd": "<div class=\"opennewstools",
-      "css": "#n_t{display:none!important;}",
+      "css": "#n_t{display:none!important}",
       "removeImg": "true"
     },
     {
@@ -194,14 +194,14 @@
       "title": "shamshyan.com",
       "contentStart": "<div class=\"menuin left\">",
       "contentEnd": "<div class=\"share\">",
-      "css": ".paddingeight{display:none!important;}#newsInnerImages{padding:0!important;}",
+      "css": ".paddingeight{display:none!important;}#newsInnerImages{padding:0!important}",
       "removeImg": "true"
     },
     {
       "title": "hetq.am",
       "contentStart": "<div class=\"opennewstext",
       "contentEnd": "<div class=\"opennewstools",
-      "css": ".opennewstitle,.datetime,.opennewstext~*{display:none!important;}",
+      "css": ".opennewstitle,.datetime,.opennewstext~*{display:none!important}",
       "removeImg": "true"
     },
     {
@@ -223,7 +223,7 @@
       "title": "armsport.am",
       "contentStart": "<div class=\"static-content",
       "contentEnd": "<div id=\"social-box",
-      "css": "#tag-block{display:none!important;}"
+      "css": "#tag-block{display:none!important}"
     },
     {
       "title": "armfootball.com",
@@ -234,7 +234,7 @@
       "title": "slaq.am",
       "contentStart": "<span class=\"date2",
       "contentEnd": "<div class=\"end_of_news",
-      "css": ".date2{display:none!important;}",
+      "css": ".date2{display:none!important}",
       "removeImg": "true"
     },
     {
@@ -272,7 +272,7 @@
       "title": "azatutyun.am",
       "contentStart": "<div class=\"body-container",
       "contentEnd": "<div class=\"container",
-      "css": ".design-top-offset{display:none!important;}"
+      "css": ".design-top-offset{display:none!important}"
     },
     {
       "title": "panarmenian.net",
