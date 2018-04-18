@@ -133,9 +133,9 @@
     },
     {
       "title": "1in.am",
-      "contentStart": "<span class=\"news-content",
+      "contentStart": "<div class=\"single-post-main",
       "contentEnd": "<div class=\"banner_ads",
-      "css": ".news-meta,.news-meta-row-social,.post-translate{display:none!important}"
+      "css": ".news-photo,.hidden-mobile,.news-meta,.news-meta-row-social,.post-translate{display:none!important}"
     },
     {
       "title": "entertrain.1in.am",
