@@ -135,7 +135,7 @@
       "title": "1in.am",
       "contentStart": "<div class=\"single-post-main",
       "contentEnd": "<div class=\"banner_ads",
-      "css": ".news-photo,.hidden-mobile,.news-meta,.news-meta-row-social,.post-translate{display:none!important}"
+      "css": ".news-photo,.news-title,.hidden-desktop,.news-meta,.hidden-mobile,.news-meta-row-social,.post-translate{display:none!important}"
     },
     {
       "title": "entertrain.1in.am",
