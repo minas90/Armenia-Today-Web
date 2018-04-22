@@ -32,8 +32,9 @@
       "fbId": "104714256256071"
     },
     {
-      "title": "lragir.am",
-      "fbId": "121256157926865"
+      "title": "azatutyun.am",
+      "urlHy": "http://www.azatutyun.am/api/",
+      "urlRu": "http://rus.azatutyun.am/api/"
     },
     {
       "title": "armenpress.am",
@@ -107,9 +108,8 @@
       "urlHy": "http://www.ilur.am/rss.html"
     },
     {
-      "title": "azatutyun.am",
-      "urlHy": "http://www.azatutyun.am/api/",
-      "urlRu": "http://rus.azatutyun.am/api/"
+      "title": "lragir.am",
+      "fbId": "121256157926865"
     },
     {
       "title": "panarmenian.net",
@@ -171,10 +171,10 @@
       "removeImg": "true"
     },
     {
-      "title": "lragir.am",
-      "contentStart": "<div id=\"article-wrapper\">",
-      "contentEnd": "<p id=\"hpFooter\"",
-      "removeImg": "true"
+      "title": "azatutyun.am",
+      "contentStart": "<div class=\"body-container",
+      "contentEnd": "<div class=\"container",
+      "css": ".design-top-offset{display:none!important}"
     },
     {
       "title": "armenpress.am",
@@ -267,10 +267,10 @@
       "contentEnd": "<div class=\"fl"
     },
     {
-      "title": "azatutyun.am",
-      "contentStart": "<div class=\"body-container",
-      "contentEnd": "<div class=\"container",
-      "css": ".design-top-offset{display:none!important}"
+      "title": "lragir.am",
+      "contentStart": "<div id=\"article-wrapper\">",
+      "contentEnd": "<p id=\"hpFooter\"",
+      "removeImg": "true"
     },
     {
       "title": "panarmenian.net",
