@@ -6,10 +6,6 @@
       "urlRu": "http://blognews.am/rus/rss/news"
     },
     {
-      "title": "1in.am",
-      "fbId": "113214255405833"
-    },
-    {
       "title": "news.am",
       "urlHy": "https://news.am/arm/rss",
       "urlRu": "https://news.am/rus/rss",
@@ -53,6 +49,10 @@
       "title": "shamshyan.com",
       "fbId": "274719479299448",
       "urlHy": "http://shamshyan.com/hy/rssfeed/all/"
+    },
+    {
+      "title": "1in.am",
+      "fbId": "113214255405833"
     },
     {
       "title": "hetq.am",
@@ -130,12 +130,6 @@
       "contentEnd": "<div class=\"azd-container"
     },
     {
-      "title": "1in.am",
-      "contentStart": "<div class=\"single-post-main",
-      "contentEnd": "<div class=\"banner_ads",
-      "css": ".news-photo,.news-title,.hidden-desktop,.news-meta,.hidden-mobile,.news-meta-row-social,.post-translate{display:none!important}"
-    },
-    {
       "title": "entertrain.1in.am",
       "contentStart": "<div class=\"entry-content",
       "contentEnd": "<div class=\"facebook-shareing",
@@ -194,6 +188,12 @@
       "contentEnd": "<div class=\"share\">",
       "css": ".paddingeight{display:none!important;}#newsInnerImages{padding:0!important}",
       "removeImg": "true"
+    },
+    {
+      "title": "1in.am",
+      "contentStart": "<div class=\"single-post-main",
+      "contentEnd": "<div class=\"banner_ads",
+      "css": ".news-photo,.news-title,.hidden-desktop,.news-meta,.hidden-mobile,.news-meta-row-social,.post-translate{display:none!important}"
     },
     {
       "title": "hetq.am",
