@@ -130,12 +130,6 @@
       "contentEnd": "<div class=\"azd-container"
     },
     {
-      "title": "entertrain.1in.am",
-      "contentStart": "<div class=\"entry-content",
-      "contentEnd": "<div class=\"facebook-shareing",
-      "removeImg": "true"
-    },
-    {
       "title": "news.am",
       "contentStart": "<div class=\"article-body",
       "contentEnd": "<div class=\"article-author",
@@ -194,6 +188,12 @@
       "contentStart": "<div class=\"single-post-main",
       "contentEnd": "<div class=\"banner_ads",
       "css": ".news-photo,.news-title,.hidden-desktop,.news-meta,.hidden-mobile,.news-meta-row-social,.post-translate{display:none!important}"
+    },
+    {
+      "title": "entertrain.1in.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<div class=\"facebook-shareing",
+      "removeImg": "true"
     },
     {
       "title": "hetq.am",
