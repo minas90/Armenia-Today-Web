@@ -150,6 +150,7 @@
       "title": "168.am",
       "contentStart": "<div class=\"entry-content",
       "contentEnd": "<!-- .entry-content -->",
+      "css": ".desktop-hidden,.mobile-hidden{display:none!important}",
       "removeImg": "true"
     },
     {
