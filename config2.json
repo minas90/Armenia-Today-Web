@@ -132,8 +132,8 @@
     {
       "title": "news.am",
       "contentStart": "<div class=\"article-body",
-      "contentEnd": "<div class=\"article-author",
-      "css": ".banner{display:none!important}"
+      "contentEnd": "<div class=\"article-warning",
+      "css": ".banner,.article-author{display:none!important}"
     },
     {
       "title": "tert.am",
