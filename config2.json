@@ -2,8 +2,8 @@
   "feeds": [
     {
       "title": "blognews.am",
-      "urlHy": "http://blognews.am/arm/rss/news",
-      "urlRu": "http://blognews.am/rus/rss/news"
+      "urlHy": "https://blognews.am/arm/rss/news",
+      "urlRu": "https://blognews.am/rus/rss/news"
     },
     {
       "title": "news.am",
@@ -29,8 +29,8 @@
     },
     {
       "title": "azatutyun.am",
-      "urlHy": "http://www.azatutyun.am/api/",
-      "urlRu": "http://rus.azatutyun.am/api/"
+      "urlHy": "https://www.azatutyun.am/api/",
+      "urlRu": "https://rus.azatutyun.am/api/"
     },
     {
       "title": "armenpress.am",
@@ -91,7 +91,7 @@
     },
     {
       "title": "civilnet.am",
-      "urlHy": "http://www.civilnet.am/news/rss"
+      "urlHy": "https://www.civilnet.am/news/rss"
     },
     {
       "title": "aravot.am",
@@ -99,9 +99,9 @@
     },
     {
       "title": "panorama.am",
-      "urlHy": "http://www.panorama.am/am/news/rss",
-      "urlRu": "http://www.panorama.am/ru/news/rss",
-      "urlEn": "http://www.panorama.am/en/news/rss"
+      "urlHy": "https://www.panorama.am/am/news/rss",
+      "urlRu": "https://www.panorama.am/ru/news/rss",
+      "urlEn": "https://www.panorama.am/en/news/rss"
     },
     {
       "title": "ilur.am",
