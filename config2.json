@@ -24,10 +24,6 @@
       "urlEn": "http://mamul.am/en/rss"
     },
     {
-      "title": "168.am",
-      "fbId": "104714256256071"
-    },
-    {
       "title": "azatutyun.am",
       "urlHy": "https://www.azatutyun.am/api/",
       "urlRu": "https://rus.azatutyun.am/api/"
@@ -40,19 +36,15 @@
     },
     {
       "title": "asekose.am",
-      "fbId": "154353341299715",
-      "urlHy": "http://asekose.am/index.php/hy_AM/news/rss/index.xml",
-      "urlRu": "http://asekose.am/index.php/ru_RU/news/rss/index.xml",
-      "urlEn": "http://asekose.am/index.php/en_US/news/rss/index.xml"
+      "urlHy": "https://feedscale.github.io/am/filters/asekose.am/feed.rss"
     },
     {
       "title": "shamshyan.com",
-      "fbId": "274719479299448",
       "urlHy": "http://shamshyan.com/hy/rssfeed/all/"
     },
     {
       "title": "1in.am",
-      "fbId": "113214255405833"
+      "urlHy": "https://feedscale.github.io/am/filters/1in.am/feed.rss"
     },
     {
       "title": "hetq.am",
@@ -62,15 +54,11 @@
     },
     {
       "title": "araratnews.am",
-      "fbId": "534622579919647"
+      "urlHy": "https://feedscale.github.io/am/filters/araratnews.am/feed.rss"
     },
     {
       "title": "aysor.am",
       "urlHy": "https://www.aysor.am/am/news/rss"
-    },
-    {
-      "title": "armday.am",
-      "fbId": "1264952230236936"
     },
     {
       "title": "armsport.am",
@@ -84,7 +72,6 @@
     },
     {
       "title": "slaq.am",
-      "fbId": "163299537023616",
       "urlHy": "http://www.slaq.am/external/index.php?type=rss&lng=arm",
       "urlRu": "http://www.slaq.am/external/index.php?type=rss&lng=rus",
       "urlEn": "http://www.slaq.am/external/index.php?type=rss&lng=eng"
@@ -92,10 +79,6 @@
     {
       "title": "civilnet.am",
       "urlHy": "https://www.civilnet.am/news/rss"
-    },
-    {
-      "title": "aravot.am",
-      "fbId": "271803352838187"
     },
     {
       "title": "panorama.am",
@@ -108,17 +91,11 @@
       "urlHy": "http://www.ilur.am/rss.html"
     },
     {
-      "title": "lragir.am",
-      "fbId": "121256157926865"
-    },
-    {
       "title": "panarmenian.net",
-      "fbId": "69355249283",
       "urlHy": "http://stickers.panarmenian.net/feeds/arm/news/"
     },
     {
       "title": "asbarez.com",
-      "fbId": "30695878200",
       "urlHy": "http://asbarez.com/arm/feed",
       "urlEn": "http://asbarez.com/feed"
     }
