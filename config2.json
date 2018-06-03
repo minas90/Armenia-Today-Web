@@ -96,8 +96,7 @@
     },
     {
       "title": "asbarez.com",
-      "urlHy": "http://asbarez.com/arm/feed",
-      "urlEn": "http://asbarez.com/feed"
+      "urlHy": "https://feedscale.github.io/am/filters/asbarez.com/feed.rss"
     }
   ],
   "contentFilters": [
