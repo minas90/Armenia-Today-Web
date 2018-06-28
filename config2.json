@@ -2,8 +2,7 @@
   "feeds": [
     {
       "title": "blognews.am",
-      "urlHy": "http://blognews.am/arm/rss/news",
-      "urlRu": "http://blognews.am/rus/rss/news"
+      "urlHy": "https://blognews.am/arm/rss/news"
     },
     {
       "title": "news.am",
