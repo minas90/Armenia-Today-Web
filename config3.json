@@ -1,0 +1,274 @@
+{
+  "feeds": [
+    {
+      "title": "blognews.am",
+      "urlHy": "https://blognews.am/arm/rss/news"
+    },
+    {
+      "title": "news.am",
+      "urlHy": "https://news.am/arm/rss",
+      "urlRu": "https://news.am/rus/rss",
+      "urlEn": "https://news.am/eng/rss"
+    },
+    {
+      "title": "tert.am",
+      "urlHy": "http://www.tert.am/am/news/rss",
+      "urlRu": "http://www.tert.am/ru/news/rss",
+      "urlEn": "http://www.tert.am/en/news/rss"
+    },
+    {
+      "title": "mamul.am",
+      "urlHy": "http://mamul.am/am/rss",
+      "urlRu": "http://mamul.am/ru/rss",
+      "urlEn": "http://mamul.am/en/rss"
+    },
+    {
+      "title": "azatutyun.am",
+      "urlHy": "https://appressapps.com/am/filters/azatutyun.am/feed.json"
+    },
+    {
+      "title": "armenpress.am",
+      "urlHy": "https://armenpress.am/arm/rss/news",
+      "urlRu": "https://armenpress.am/rus/rss/news",
+      "urlEn": "https://armenpress.am/eng/rss/news"
+    },
+    {
+      "title": "asekose.am",
+      "urlHy": "https://appressapps.com/am/filters/asekose.am/feed.json"
+    },
+    {
+      "title": "shamshyan.com",
+      "urlHy": "http://shamshyan.com/hy/rssfeed/all/"
+    },
+    {
+      "title": "168.am",
+      "urlHy": "https://appressapps.com/am/filters/168.am/feed.json"
+    },
+    {
+      "title": "lragir.am",
+      "urlHy": "https://appressapps.com/am/filters/lragir.am/feed.json"
+    },
+    {
+      "title": "1in.am",
+      "urlHy": "https://appressapps.com/am/filters/1in.am/feed.json"
+    },
+    {
+      "title": "hetq.am",
+      "urlHy": "http://hetq.am/arm/rss/news",
+      "urlRu": "http://hetq.am/rus/rss/news",
+      "urlEn": "http://hetq.am/eng/rss/news"
+    },
+    {
+      "title": "araratnews.am",
+      "urlHy": "https://appressapps.com/am/filters/araratnews.am/feed.json"
+    },
+    {
+      "title": "aysor.am",
+      "urlHy": "https://www.aysor.am/am/news/rss"
+    },
+    {
+      "title": "armsport.am",
+      "urlHy": "http://www.armsport.am/hy/news/rss",
+      "urlRu": "http://www.armsport.am/ru/news/rss"
+    },
+    {
+      "title": "armfootball.com",
+      "urlHy": "https://appressapps.com/am/filters/armfootball.com/feed.json"
+    },
+    {
+      "title": "slaq.am",
+      "urlHy": "http://www.slaq.am/external/index.php?type=rss&lng=arm",
+      "urlRu": "http://www.slaq.am/external/index.php?type=rss&lng=rus",
+      "urlEn": "http://www.slaq.am/external/index.php?type=rss&lng=eng"
+    },
+    {
+      "title": "civilnet.am",
+      "urlHy": "https://www.civilnet.am/news/rss"
+    },
+    {
+      "title": "panorama.am",
+      "urlHy": "https://www.panorama.am/am/news/rss",
+      "urlRu": "https://www.panorama.am/ru/news/rss",
+      "urlEn": "https://www.panorama.am/en/news/rss"
+    },
+    {
+      "title": "ilur.am",
+      "urlHy": "http://www.ilur.am/rss.html"
+    },
+    {
+      "title": "panarmenian.net",
+      "urlHy": "https://appressapps.com/am/filters/panarmenian.net/feed.json"
+    },
+    {
+      "title": "asbarez.com",
+      "urlHy": "https://appressapps.com/am/filters/asbarez.com/feed.json"
+    }
+  ],
+  "contentFilters": [
+    {
+      "title": "blognews.am",
+      "contentStart": "<article",
+      "contentEnd": "<div class=\"azd-container"
+    },
+    {
+      "title": "news.am",
+      "contentStart": "<div class=\"article-body",
+      "contentEnd": "<div class=\"article-warning",
+      "css": ".banner,.article-author{display:none!important}"
+    },
+    {
+      "title": "tert.am",
+      "contentStart": "<div id=\"i-content",
+      "contentEnd": "<div class=\"ad\">",
+      "removeImg": "true"
+    },
+    {
+      "title": "mamul.am",
+      "contentStart": "<div class=\"descer2\"",
+      "contentEnd": "Տեղեկացրե՛ք Ձեր մտերիմներին</div>"
+    },
+    {
+      "title": "168.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<!-- .entry-content -->",
+      "css": ".desktop-hidden,.mobile-hidden{display:none!important}",
+      "removeImg": "true"
+    },
+    {
+      "title": "blog.168.am",
+      "contentStart": "<div class=\"post-content",
+      "contentEnd": "<div class=\"clearfix",
+      "removeImg": "true"
+    },
+    {
+      "title": "azatutyun.am",
+      "contentStart": "<div class=\"body-container",
+      "contentEnd": "<div class=\"container",
+      "css": ".design-top-offset{display:none!important}"
+    },
+    {
+      "title": "armenpress.am",
+      "contentStart": "<span class=\"opennewstext",
+      "contentEnd": "<div class=\"opennewstools",
+      "css": "#n_t{display:none!important}",
+      "removeImg": "true"
+    },
+    {
+      "title": "asekose.am",
+      "contentStart": "<div class=\"content",
+      "contentEnd": "Яндекс.RTB-блок -->"
+    },
+    {
+      "title": "shamshyan.com",
+      "contentStart": "<div class=\"menuin left\">",
+      "contentEnd": "<div class=\"share\">",
+      "css": ".paddingeight{display:none!important;}#newsInnerImages{padding:0!important}",
+      "removeImg": "true"
+    },
+    {
+      "title": "1in.am",
+      "contentStart": "<div class=\"single-post-main",
+      "contentEnd": "<div class=\"banner_ads",
+      "css": ".news-photo,.news-title,.hidden-desktop,.news-meta,.hidden-mobile,.news-meta-row-social,.post-translate{display:none!important}"
+    },
+    {
+      "title": "entertrain.1in.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<div class=\"facebook-shareing",
+      "removeImg": "true"
+    },
+    {
+      "title": "hetq.am",
+      "contentStart": "<div class=\"opennewstext",
+      "contentEnd": "<div class=\"opennewstools",
+      "css": ".opennewstitle,.datetime,.opennewstext~*{display:none!important}",
+      "removeImg": "true"
+    },
+    {
+      "title": "araratnews.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "</article>"
+    },
+    {
+      "title": "aysor.am",
+      "contentStart": "<div class=\"html-content",
+      "contentEnd": "<div id=\"comments-box"
+    },
+    {
+      "title": "armday.am",
+      "contentStart": "<div class=\"post-body",
+      "contentEnd": "<div class=\"panel-tags-cats"
+    },
+    {
+      "title": "armsport.am",
+      "contentStart": "<div class=\"static-content",
+      "contentEnd": "<div id=\"social-box",
+      "css": "#tag-block{display:none!important}"
+    },
+    {
+      "title": "armfootball.com",
+      "contentStart": "<div id=\"opennewstext\"",
+      "contentEnd": "<div class=\"opennewstools\""
+    },
+    {
+      "title": "slaq.am",
+      "contentStart": "<span class=\"date2",
+      "contentEnd": "<div class=\"end_of_news",
+      "css": ".date2{display:none!important}",
+      "removeImg": "true"
+    },
+    {
+      "title": "sport.slaq.am",
+      "contentStart": "<span class=\"news_text",
+      "contentEnd": "<div class=\"end_of_news cb"
+    },
+    {
+      "title": "civilnet.am",
+      "contentStart": "<div class=\"static-content",
+      "contentEnd": "<div class=\"addthis_native_toolbox"
+    },
+    {
+      "title": "aravot.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<!-- .entry-content -->",
+      "removeImg": "true"
+    },
+    {
+      "title": "panorama.am",
+      "contentStart": "<div class=\"html-content",
+      "contentEnd": "<div class=\"publications-share"
+    },
+    {
+      "title": "life.panorama.am",
+      "contentStart": "<div id=\"article-content",
+      "contentEnd": "<div id=\"social-box"
+    },
+    {
+      "title": "ilur.am",
+      "contentStart": "<div class=\"newsContent",
+      "contentEnd": "<div class=\"fl"
+    },
+    {
+      "title": "lragir.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<div class=\"sharethis-inline-share-buttons"
+    },
+    {
+      "title": "panarmenian.net",
+      "contentStart": "<div id=\"body\"",
+      "contentEnd": "<div class=\"share_small\""
+    },
+    {
+      "title": "asbarez.com",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<!-- .entry-content -->",
+      "removeImg": "true"
+    },
+    {
+      "title": "yerkir.am",
+      "contentStart": "<div class=\"news_inner_content",
+      "contentEnd": "<div class=\"news_inner_share_block",
+      "removeImg": "true"
+    }
+  ]
+}
