@@ -6,21 +6,15 @@
     },
     {
       "title": "news.am",
-      "urlHy": "https://news.am/arm/rss",
-      "urlRu": "https://news.am/rus/rss",
-      "urlEn": "https://news.am/eng/rss"
+      "urlHy": "https://news.am/arm/rss"
     },
     {
       "title": "tert.am",
-      "urlHy": "http://www.tert.am/am/news/rss",
-      "urlRu": "http://www.tert.am/ru/news/rss",
-      "urlEn": "http://www.tert.am/en/news/rss"
+      "urlHy": "http://www.tert.am/am/news/rss"
     },
     {
       "title": "mamul.am",
-      "urlHy": "http://mamul.am/am/rss",
-      "urlRu": "http://mamul.am/ru/rss",
-      "urlEn": "http://mamul.am/en/rss"
+      "urlHy": "http://mamul.am/am/rss"
     },
     {
       "title": "azatutyun.am",
@@ -28,9 +22,7 @@
     },
     {
       "title": "armenpress.am",
-      "urlHy": "https://armenpress.am/arm/rss/news",
-      "urlRu": "https://armenpress.am/rus/rss/news",
-      "urlEn": "https://armenpress.am/eng/rss/news"
+      "urlHy": "https://armenpress.am/arm/rss/news"
     },
     {
       "title": "asekose.am",
@@ -54,9 +46,7 @@
     },
     {
       "title": "hetq.am",
-      "urlHy": "http://hetq.am/arm/rss/news",
-      "urlRu": "http://hetq.am/rus/rss/news",
-      "urlEn": "http://hetq.am/eng/rss/news"
+      "urlHy": "http://hetq.am/arm/rss/news"
     },
     {
       "title": "araratnews.am",
@@ -68,8 +58,7 @@
     },
     {
       "title": "armsport.am",
-      "urlHy": "http://www.armsport.am/hy/news/rss",
-      "urlRu": "http://www.armsport.am/ru/news/rss"
+      "urlHy": "http://www.armsport.am/hy/news/rss"
     },
     {
       "title": "armfootball.com",
@@ -77,9 +66,7 @@
     },
     {
       "title": "slaq.am",
-      "urlHy": "http://www.slaq.am/external/index.php?type=rss&lng=arm",
-      "urlRu": "http://www.slaq.am/external/index.php?type=rss&lng=rus",
-      "urlEn": "http://www.slaq.am/external/index.php?type=rss&lng=eng"
+      "urlHy": "http://www.slaq.am/external/index.php?type=rss&lng=arm"
     },
     {
       "title": "civilnet.am",
@@ -87,9 +74,7 @@
     },
     {
       "title": "panorama.am",
-      "urlHy": "https://www.panorama.am/am/news/rss",
-      "urlRu": "https://www.panorama.am/ru/news/rss",
-      "urlEn": "https://www.panorama.am/en/news/rss"
+      "urlHy": "https://www.panorama.am/am/news/rss"
     },
     {
       "title": "ilur.am",
