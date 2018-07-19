@@ -240,8 +240,8 @@
     },
     {
       "title": "panarmenian.net",
-      "contentStart": "<div id=\"body\"",
-      "contentEnd": "<div class=\"share_small\""
+      "contentStart": "<strong style='color:#444444;'>PanARMENIAN.Net</strong>",
+      "contentEnd": "<div class=\"margin_bottom_15"
     },
     {
       "title": "asbarez.com",
