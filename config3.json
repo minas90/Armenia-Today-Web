@@ -2,15 +2,15 @@
   "feeds": [
     {
       "title": "blognews.am",
-      "urlHy": "https://blognews.am/arm/rss/news"
+      "urlHy": "https://appressapps.com/am/filters/blognews.am/feed.json"
     },
     {
       "title": "news.am",
-      "urlHy": "https://news.am/arm/rss"
+      "urlHy": "https://appressapps.com/am/filters/news.am/feed.json"
     },
     {
       "title": "tert.am",
-      "urlHy": "http://www.tert.am/am/news/rss"
+      "urlHy": "https://appressapps.com/am/filters/tert.am/feed.json"
     },
     {
       "title": "mamul.am",
@@ -30,7 +30,7 @@
     },
     {
       "title": "shamshyan.com",
-      "urlHy": "http://shamshyan.com/hy/rssfeed/all/"
+      "urlHy": "https://appressapps.com/am/filters/shamshyan.com/feed.json"
     },
     {
       "title": "168.am",
@@ -46,7 +46,7 @@
     },
     {
       "title": "hetq.am",
-      "urlHy": "http://hetq.am/arm/rss/news"
+      "urlHy": "https://appressapps.com/am/filters/hetq.am/feed.json"
     },
     {
       "title": "araratnews.am",
@@ -54,31 +54,31 @@
     },
     {
       "title": "aysor.am",
-      "urlHy": "https://www.aysor.am/am/news/rss"
+      "urlHy": "https://appressapps.com/am/filters/aysor.am/feed.json"
     },
     {
       "title": "armsport.am",
-      "urlHy": "http://www.armsport.am/hy/news/rss"
+      "urlHy": "https://appressapps.com/am/filters/armsport.am/feed.json"
     },
     {
       "title": "armfootball.com",
       "urlHy": "https://appressapps.com/am/filters/armfootball.com/feed.json"
     },
     {
-      "title": "slaq.am",
-      "urlHy": "http://www.slaq.am/external/index.php?type=rss&lng=arm"
+      "title": "galatv.am",
+      "urlHy": "https://appressapps.com/am/filters/galatv.am/feed.json"
     },
     {
       "title": "civilnet.am",
-      "urlHy": "https://www.civilnet.am/news/rss"
+      "urlHy": "https://appressapps.com/am/filters/civilnet.am/feed.json"
     },
     {
       "title": "panorama.am",
-      "urlHy": "https://www.panorama.am/am/news/rss"
+      "urlHy": "https://appressapps.com/am/filters/panorama.am/feed.json"
     },
     {
       "title": "ilur.am",
-      "urlHy": "http://www.ilur.am/rss.html"
+      "urlHy": "https://appressapps.com/am/filters/ilur.am/feed.json"
     },
     {
       "title": "panarmenian.net",
@@ -194,6 +194,11 @@
       "title": "armfootball.com",
       "contentStart": "<div id=\"opennewstext\"",
       "contentEnd": "<div class=\"opennewstools\""
+    },
+    {
+      "title": "galatv.am",
+      "contentStart": "<div class=\"entry-content",
+      "contentEnd": "<div class=\"extauthor"
     },
     {
       "title": "slaq.am",
