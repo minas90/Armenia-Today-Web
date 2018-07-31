@@ -6,9 +6,9 @@
     },
     {
       "title": "news.am",
-      "urlHy": "https://news.am/arm/rss",
-      "urlRu": "https://news.am/rus/rss",
-      "urlEn": "https://news.am/eng/rss"
+      "urlHy": "https://news.am/arm/rss/",
+      "urlRu": "https://news.am/rus/rss/",
+      "urlEn": "https://news.am/eng/rss/"
     },
     {
       "title": "tert.am",
