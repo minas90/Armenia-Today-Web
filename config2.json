@@ -35,7 +35,7 @@
     },
     {
       "title": "asekose.am",
-      "urlHy": "https://appressapps.com/am/filters/asekose.am/feed.rss"
+      "urlHy": "http://asekose.am/index.php/hy_AM/news/rss/index.xml"
     },
     {
       "title": "shamshyan.com",
@@ -43,7 +43,7 @@
     },
     {
       "title": "1in.am",
-      "urlHy": "https://appressapps.com/am/filters/1in.am/feed.rss"
+      "urlHy": "https://www.1in.am/feed"
     },
     {
       "title": "hetq.am",
@@ -53,7 +53,7 @@
     },
     {
       "title": "araratnews.am",
-      "urlHy": "https://appressapps.com/am/filters/araratnews.am/feed.rss"
+      "urlHy": "http://araratnews.am/feed/"
     },
     {
       "title": "aysor.am",
@@ -66,7 +66,7 @@
     },
     {
       "title": "armfootball.com",
-      "urlHy": "https://appressapps.com/am/filters/armfootball.com/feed.rss"
+      "urlHy": "http://armfootball.com/arm/rss/news"
     },
     {
       "title": "slaq.am",
@@ -90,11 +90,11 @@
     },
     {
       "title": "panarmenian.net",
-      "urlHy": "https://appressapps.com/am/filters/panarmenian.net/feed.rss"
+      "urlHy": "https://stickers.panarmenian.net/feeds/arm/news"
     },
     {
       "title": "asbarez.com",
-      "urlHy": "https://appressapps.com/am/filters/asbarez.com/feed.rss"
+      "urlHy": "http://asbarez.com/arm/feed/"
     }
   ],
   "contentFilters": [
